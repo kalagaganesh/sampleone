@@ -1,0 +1,31 @@
+.eachBtnEle {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  list-style-type: none;
+  background-color: transparent;
+  border-style: none;
+  font-weight: bold;
+  border: 1px solid #f1f5f9;
+  border-radius: 25px;
+  height: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.eachBtnEle2 {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  list-style-type: none;
+  background-color: #f3aa4e;
+  border-style: none;
+  font-weight: bold;
+  border: 1px solid #f3aa4e;
+  border-radius: 25px;
+  height: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
+  cursor: pointer;
+  margin-right: 10px;
+}
